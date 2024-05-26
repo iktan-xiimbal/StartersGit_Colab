@@ -29,7 +29,7 @@ En caso de que quieras crear una cuenta de GitHub puede acceder las instruccione
 
 Puedes usar GitHub Desktop para permitirte contribuir en proyectos directamente desde tu máquina. Esta es 
 una [liga](https://docs.github.com/es/desktop/overview/getting-started-with-github-desktop) para aprendas cómo ajustar, 
-autenticar y configurar GitHub Desktop y está otra [liga](https://www.youtube.com/watch?v=lx0rnIYVy1s&t=1s) para que 
+autenticar y configurar GitHub Desktop y un [video](https://www.youtube.com/watch?v=lx0rnIYVy1s&t=1s) que explica cómo
 puedas instalarlo. 
 
 
