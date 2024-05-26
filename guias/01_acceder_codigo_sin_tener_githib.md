@@ -10,7 +10,7 @@ Pero no es necesario tener una cuenta de GitHub para acceder a cualquier materia
 todos los materiales directamente a tu computadora. Haz clic en "Code" (Código) y luego en "Download ZIP" 
 (Descargar ZIP) para descargar todo.
 
-![bajar código](./img/bajar_código.png)
+![bajar codigo](./img/bajar_codigo.png)
 
 ## Información general a cerca de Git y las plataformas que alojan proyectos que usan Git
 
