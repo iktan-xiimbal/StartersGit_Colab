@@ -6,7 +6,7 @@ saber más sobre GitHub, mira este [documento](https://docs-github-com.translate
 Si ya usas GitHub, puedes clonar cualquier repositorio público (hacer una copia en tu cuenta). Aquí te explicamos cómo 
 clonar un [repositorio](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository).
 
-Pero no es necesario tener una cuenta de GitHub para acceder a cualquier material en algún repositorio. Puedes descargar 
+Pero **no es necesario tener una cuenta de GitHub para acceder a cualquier material** que esté dentro de un repositorio. Puedes descargar 
 todos los materiales directamente a tu computadora. Haz clic en "Code" (Código) y luego en "Download ZIP" 
 (Descargar ZIP) para descargar todo.
 
