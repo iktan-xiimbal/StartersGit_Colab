@@ -12,7 +12,7 @@ todos los materiales directamente a tu computadora. Haz clic en "Code" (Código)
 
 ![bajar codigo](./img/bajar_codigo.png)
 
-## Información general a cerca de Git y las plataformas que alojan proyectos que usan Git
+## Información general acerca de Git y las plataformas que alojan proyectos que usan Git
 
 * [**Git**](https://es.wikipedia.org/wiki/Git) es un programa que ayuda a llevar un registro de los cambios que se 
 hacen en los archivos de un proyecto, especialmente cuando muchas personas trabajan en él a la vez. Esto es muy útil 
